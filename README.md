@@ -6,4 +6,4 @@
 
 2. `npx react-native link`
 
-3. `npx react-mative run-android` or `npx react-mative run-ios`
+3. `npx react-native run-android` or `npx react-native run-ios`
